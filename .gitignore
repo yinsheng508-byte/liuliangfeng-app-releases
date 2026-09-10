@@ -1,0 +1,8 @@
+*.dmg
+*.zip
+*.blockmap
+*.pkg
+*.exe
+*.msi
+*.dmg.blockmap
+release-assets/
